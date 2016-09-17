@@ -6,7 +6,7 @@
   "description": "HLS library for video.js.",
   "main": [
     "videojs-contrib-hls.js",
-    "videojs-contrib-hls.min.js",
+    "videojs-contrib-hls.min.js"
   ],
   "keywords": [
     "html5",
@@ -15,8 +15,21 @@
     "m3u8",
     "plugin"
   ],
-  "private": false,
   "dependencies": {
-    "videojs" : ">=5.8"
-  }
+    "videojs": ">=5.8"
+  },
+  "authors": [
+    "mohessaido <mohammed.tr@zadgroup.net>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
