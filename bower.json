@@ -1,0 +1,22 @@
+{
+  "name": "videojs-contrib-hls-bower",
+  "version": "0.0.1",
+  "codename": "yttrium-yeti",
+  "homepage": "https://github.com/videojs/videojs-contrib-hls",
+  "description": "HLS library for video.js.",
+  "main": [
+    "videojs-contrib-hls.js",
+    "videojs-contrib-hls.min.js",
+  ],
+  "keywords": [
+    "html5",
+    "videojs",
+    "stream",
+    "m3u8",
+    "plugin"
+  ],
+  "private": false,
+  "dependencies": {
+    "videojs" : ">=5.8"
+  }
+}
