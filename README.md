@@ -1,6 +1,6 @@
 #Videojs HLS Source Hanlder Bower Repository
 
-This is a bower repository for the last built version of this (repository)[1]
+This is a bower repository for the last built version of this [repository][1]
 
 ##How to install it using bower?
 
