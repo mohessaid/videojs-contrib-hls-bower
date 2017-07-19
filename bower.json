@@ -5,7 +5,6 @@
   "homepage": "https://github.com/videojs/videojs-contrib-hls",
   "description": "HLS library for video.js.",
   "main": [
-    "videojs-contrib-hls.js",
     "videojs-contrib-hls.min.js"
   ],
   "keywords": [
